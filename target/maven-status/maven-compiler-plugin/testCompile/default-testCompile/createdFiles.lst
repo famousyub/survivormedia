@@ -1,0 +1,11 @@
+org\zombie\apocalipse\api\reports\SurvivorReportsUtilsTest.class
+org\zombie\apocalipse\api\infection\InfectionReportMapperTest.class
+org\zombie\apocalipse\api\survivor\SurvivorControllerITCase.class
+org\zombie\apocalipse\api\survivor\SurvivorServiceUtilsTest.class
+org\zombie\apocalipse\api\survivor\SurvivorInventoryTest.class
+org\zombie\apocalipse\api\inventory\InventoryMapperTest.class
+org\zombie\apocalipse\api\ApiCoreITCase.class
+org\zombie\apocalipse\api\survivor\SurvivorMapperTest.class
+org\zombie\apocalipse\api\reports\SurvivorReportsControllerITCase.class
+org\zombie\apocalipse\api\mongo\QueryBuilderTest.class
+org\zombie\apocalipse\api\ZombieApocalipseApiApplicationTests.class

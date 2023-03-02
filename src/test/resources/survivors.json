@@ -1,0 +1,1309 @@
+[{
+    "_id" : ObjectId("58eaaba92b43926980b5d5fe"),
+    "name" : "Ms. De Rivia",
+    "age" : 23,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d600"),
+    "name" : "Poison Wayne",
+    "age" : 23,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d602"),
+    "name" : "Ms. P.",
+    "age" : 77,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d604"),
+    "name" : "Wolverine Wayne",
+    "age" : 33,
+    "gender" : "male",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d606"),
+    "name" : "Jar Cat-Woman",
+    "age" : 23,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d608"),
+    "name" : "Ms. Jackman",
+    "age" : 23,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d60a"),
+    "name" : "Wolverine Cat-Woman",
+    "age" : 88,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d60c"),
+    "name" : "Poison Cat-Woman",
+    "age" : 45,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d60e"),
+    "name" : "Jar Jar Binks",
+    "age" : 77,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d610"),
+    "name" : "Darth Jar Binks",
+    "age" : 31,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d612"),
+    "name" : "Bruce Wayne",
+    "age" : 45,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d614"),
+    "name" : "Ms. Ivy",
+    "age" : 31,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d616"),
+    "name" : "Darth Wan Kenobi",
+    "age" : 45,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d618"),
+    "name" : "Bruce Vader",
+    "age" : 12,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d61a"),
+    "name" : "Wolverine De Rivia",
+    "age" : 23,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d61c"),
+    "name" : "Geralt Wan Kenobi",
+    "age" : 88,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d61e"),
+    "name" : "Wolverine Jackman",
+    "age" : 31,
+    "gender" : "female",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d620"),
+    "name" : "PiTysj Wan Kenobi",
+    "age" : 88,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d622"),
+    "name" : "Geralt P.",
+    "age" : 66,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d624"),
+    "name" : "Petra Vader",
+    "age" : 77,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d626"),
+    "name" : "Geralt Prosjks",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d628"),
+    "name" : "Petra Jackman",
+    "age" : 23,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d62a"),
+    "name" : "Darth Wayne",
+    "age" : 23,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d62c"),
+    "name" : "Poison Prosjks",
+    "age" : 56,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d62e"),
+    "name" : "Darth Wayne",
+    "age" : 31,
+    "gender" : "sys",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d630"),
+    "name" : "Petra P.",
+    "age" : 23,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d632"),
+    "name" : "Petra Ivy",
+    "age" : 77,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d634"),
+    "name" : "Bruce Wan Kenobi",
+    "age" : 77,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d636"),
+    "name" : "Ms. P.",
+    "age" : 23,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d638"),
+    "name" : "Poison P.",
+    "age" : 31,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d63a"),
+    "name" : "Poison P.",
+    "age" : 12,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d63c"),
+    "name" : "Bruce Vader",
+    "age" : 45,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d63e"),
+    "name" : "PiTysj Ivy",
+    "age" : 12,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d640"),
+    "name" : "Ms. Wan Kenobi",
+    "age" : 23,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d642"),
+    "name" : "Poison Wan Kenobi",
+    "age" : 23,
+    "gender" : "undefined",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d644"),
+    "name" : "Obi De Rivia",
+    "age" : 56,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d646"),
+    "name" : "Darth Jar Binks",
+    "age" : 33,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d648"),
+    "name" : "PiTysj Wan Kenobi",
+    "age" : 33,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d64a"),
+    "name" : "Obi P.",
+    "age" : 66,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d64c"),
+    "name" : "Ms. Vader",
+    "age" : 88,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d64e"),
+    "name" : "Wolverine Vader",
+    "age" : 23,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d650"),
+    "name" : "Wolverine Jackman",
+    "age" : 56,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d652"),
+    "name" : "Geralt De Rivia",
+    "age" : 23,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d654"),
+    "name" : "Ms. Wayne",
+    "age" : 12,
+    "gender" : "dont-ask",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d656"),
+    "name" : "PiTysj Vader",
+    "age" : 66,
+    "gender" : "male",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d658"),
+    "name" : "Poison Wan Kenobi",
+    "age" : 77,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d65a"),
+    "name" : "Ms. Wan Kenobi",
+    "age" : 66,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d65c"),
+    "name" : "PiTysj Jar Binks",
+    "age" : 56,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d65e"),
+    "name" : "Ms. Jackman",
+    "age" : 66,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d660"),
+    "name" : "Jar Vader",
+    "age" : 12,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d662"),
+    "name" : "Geralt Wayne",
+    "age" : 33,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d664"),
+    "name" : "PiTysj De Rivia",
+    "age" : 88,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d666"),
+    "name" : "Bruce Prosjks",
+    "age" : 31,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d668"),
+    "name" : "Obi Vader",
+    "age" : 31,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d66a"),
+    "name" : "Obi De Rivia",
+    "age" : 12,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d66c"),
+    "name" : "Ms. Jackman",
+    "age" : 56,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d66e"),
+    "name" : "Petra Wayne",
+    "age" : 23,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d670"),
+    "name" : "Obi Jar Binks",
+    "age" : 66,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d672"),
+    "name" : "Geralt Wayne",
+    "age" : 56,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d674"),
+    "name" : "Obi De Rivia",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d676"),
+    "name" : "Darth Jar Binks",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d678"),
+    "name" : "Darth De Rivia",
+    "age" : 56,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d67a"),
+    "name" : "Poison Ivy",
+    "age" : 33,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d67c"),
+    "name" : "Poison Wayne",
+    "age" : 56,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d67e"),
+    "name" : "Ms. Prosjks",
+    "age" : 33,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d680"),
+    "name" : "Obi Prosjks",
+    "age" : 12,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d682"),
+    "name" : "Ms. Wan Kenobi",
+    "age" : 31,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d684"),
+    "name" : "Wolverine Jar Binks",
+    "age" : 45,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d686"),
+    "name" : "Jar Vader",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d688"),
+    "name" : "Obi Wan Kenobi",
+    "age" : 31,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d68a"),
+    "name" : "Darth Wan Kenobi",
+    "age" : 77,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d68c"),
+    "name" : "Jar Ivy",
+    "age" : 33,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d68e"),
+    "name" : "Poison De Rivia",
+    "age" : 12,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d690"),
+    "name" : "Darth Prosjks",
+    "age" : 66,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d692"),
+    "name" : "Ms. Ivy",
+    "age" : 56,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d694"),
+    "name" : "Ms. Wan Kenobi",
+    "age" : 45,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d696"),
+    "name" : "Geralt Wayne",
+    "age" : 56,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d698"),
+    "name" : "Wolverine Wan Kenobi",
+    "age" : 12,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d69a"),
+    "name" : "Petra Cat-Woman",
+    "age" : 31,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d69c"),
+    "name" : "Poison De Rivia",
+    "age" : 23,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d69e"),
+    "name" : "Obi Prosjks",
+    "age" : 77,
+    "gender" : "dont-ask",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -79.383184,
+            43.653226
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a0"),
+    "name" : "Bruce P.",
+    "age" : 66,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a2"),
+    "name" : "PiTysj Jackman",
+    "age" : 45,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a4"),
+    "name" : "Poison Cat-Woman",
+    "age" : 12,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a6"),
+    "name" : "PiTysj Cat-Woman",
+    "age" : 88,
+    "gender" : "undefined",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a8"),
+    "name" : "PiTysj De Rivia",
+    "age" : 31,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6aa"),
+    "name" : "PiTysj Cat-Woman",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6ac"),
+    "name" : "Geralt Ivy",
+    "age" : 56,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6ae"),
+    "name" : "PiTysj Prosjks",
+    "age" : 23,
+    "gender" : "undefined",
+	"contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b0"),
+    "name" : "Obi Wan Kenobi",
+    "age" : 88,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b2"),
+    "name" : "Petra Wayne",
+    "age" : 23,
+    "gender" : "dont-ask",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b4"),
+    "name" : "Petra Vader",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b6"),
+    "name" : "Wolverine Ivy",
+    "age" : 33,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b8"),
+    "name" : "Wolverine Cat-Woman",
+    "age" : 12,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -74.005941,
+            40.712784
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6ba"),
+    "name" : "Geralt Cat-Woman",
+    "age" : 12,
+    "gender" : "dont-ask",
+    "contaminationReports" : 3,
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6bc"),
+    "name" : "Poison Jar Binks",
+    "age" : 88,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -46.633309,
+            -23.55052
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6be"),
+    "name" : "Ms. Prosjks",
+    "age" : 88,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            8.682127,
+            50.110922
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6c0"),
+    "name" : "Ms. Ivy",
+    "age" : 88,
+    "gender" : "sys",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6c2"),
+    "name" : "PiTysj De Rivia",
+    "age" : 12,
+    "gender" : "male",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            139.691706,
+            35.689487
+        ]
+    }
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6c4"),
+    "name" : "Geralt De Rivia",
+    "age" : 77,
+    "gender" : "female",
+    "position" : {
+        "type" : "Point",
+        "coordinates" : [
+            -49.264789,
+            -16.686882
+        ]
+    }
+}]

@@ -1,0 +1,1 @@
+mvn pre-integration-test -Dmongodb.wait

@@ -1,0 +1,378 @@
+[{
+    "_id" : ObjectId("58ec617c2b439263b830d1fe"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d604"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaaba92b43926980b5d5fe")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d1ff"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d604"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d600")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d200"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d604"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d602")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d201"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d61e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d606")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d202"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d61e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d608")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d203"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d61e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d60a")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d204"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d62e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d60c")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d205"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d62e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d60e")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d206"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d62e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d608")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d207"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d642"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d610")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d208"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d642"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d612")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d209"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d642"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d614")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d20a"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d654"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d616")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d20b"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d654"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d618")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d20c"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d654"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d608")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d20d"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d656"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d61a")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d20e"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d656"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d61c")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d20f"),
+    "reported" : ObjectId("58eaabaa2b43926980b5d656"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d620")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d210"),
+    "reported" : ObjectId("58eaabab2b43926980b5d69e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d622")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d211"),
+    "reported" : ObjectId("58eaabab2b43926980b5d69e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d624")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d212"),
+    "reported" : ObjectId("58eaabab2b43926980b5d69e"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d626")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d213"),
+    "reported" : ObjectId("58eaabab2b43926980b5d6ae"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d628")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d214"),
+    "reported" : ObjectId("58eaabab2b43926980b5d6ae"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d618")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d215"),
+    "reported" : ObjectId("58eaabab2b43926980b5d6ae"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d62a")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d216"),
+    "reported" : ObjectId("58eaabab2b43926980b5d6ba"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d62c")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d217"),
+    "reported" : ObjectId("58eaabab2b43926980b5d6ba"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d630")
+},
+{
+    "_id" : ObjectId("58ec617c2b439263b830d218"),
+    "reported" : ObjectId("58eaabab2b43926980b5d6ba"),
+    "dTEvent" : ISODate("2017-04-11T04:50:35.080Z"),
+    "timeBucket" : [ 
+        "2017-04-11 01-hour", 
+        "2017-04-11-day", 
+        "2017-04-03-month_week", 
+        "2017-04-month", 
+        "2017-15-year_week", 
+        "2017-year"
+    ],
+    "reporter" : ObjectId("58eaabaa2b43926980b5d632")
+}]

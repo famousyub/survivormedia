@@ -1,0 +1,1000 @@
+[{
+    "_id" : ObjectId("58eaaba92b43926980b5d5ff"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 2,
+        "WATER" : 8,
+        "FOOD" : 1
+    },
+    "survivorId" : ObjectId("58eaaba92b43926980b5d5fe")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d601"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 5,
+        "WATER" : 0,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d600")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d603"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 7,
+        "WATER" : 7,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d602")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d605"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 0,
+        "WATER" : 2,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d604")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d607"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 4,
+        "WATER" : 0,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d606")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d609"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 2,
+        "WATER" : 5,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d608")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d60b"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 6,
+        "WATER" : 4,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d60a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d60d"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 0,
+        "WATER" : 5,
+        "FOOD" : 9
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d60c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d60f"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 6,
+        "WATER" : 4,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d60e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d611"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 5,
+        "WATER" : 1,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d610")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d613"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 5,
+        "WATER" : 2,
+        "FOOD" : 1
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d612")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d615"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 3,
+        "WATER" : 9,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d614")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d617"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 1,
+        "WATER" : 0,
+        "FOOD" : 9
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d616")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d619"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 7,
+        "WATER" : 1,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d618")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d61b"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 7,
+        "WATER" : 9,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d61a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d61d"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 8,
+        "WATER" : 9,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d61c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d61f"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 0,
+        "WATER" : 5,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d61e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d621"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 0,
+        "WATER" : 2,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d620")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d623"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 4,
+        "WATER" : 6,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d622")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d625"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 5,
+        "WATER" : 0,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d624")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d627"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 0,
+        "WATER" : 0,
+        "FOOD" : 9
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d626")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d629"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 6,
+        "WATER" : 9,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d628")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d62b"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 5,
+        "WATER" : 7,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d62a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d62d"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 1,
+        "WATER" : 5,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d62c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d62f"),
+    "items" : {
+        "MEDICATION" : 2,
+        "AMMUNITION" : 2,
+        "WATER" : 7,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d62e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d631"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 6,
+        "WATER" : 8,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d630")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d633"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 3,
+        "WATER" : 7,
+        "FOOD" : 1
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d632")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d635"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 7,
+        "WATER" : 4,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d634")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d637"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 3,
+        "WATER" : 9,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d636")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d639"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 5,
+        "WATER" : 0,
+        "FOOD" : 9
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d638")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d63b"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 4,
+        "WATER" : 9,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d63a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d63d"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 8,
+        "WATER" : 2,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d63c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d63f"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 6,
+        "WATER" : 8,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d63e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d641"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 8,
+        "WATER" : 4,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d640")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d643"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 3,
+        "WATER" : 8,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d642")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d645"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 5,
+        "WATER" : 5,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d644")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d647"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 2,
+        "WATER" : 9,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d646")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d649"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 8,
+        "WATER" : 9,
+        "FOOD" : 1
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d648")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d64b"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 1,
+        "WATER" : 6,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d64a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d64d"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 0,
+        "WATER" : 9,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d64c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d64f"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 0,
+        "WATER" : 9,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d64e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d651"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 2,
+        "WATER" : 6,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d650")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d653"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 0,
+        "WATER" : 8,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d652")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d655"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 7,
+        "WATER" : 6,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d654")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d657"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 2,
+        "WATER" : 9,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d656")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d659"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 8,
+        "WATER" : 4,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d658")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d65b"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 4,
+        "WATER" : 9,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d65a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d65d"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 3,
+        "WATER" : 7,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d65c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d65f"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 8,
+        "WATER" : 2,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d65e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d661"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 0,
+        "WATER" : 6,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d660")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d663"),
+    "items" : {
+        "MEDICATION" : 2,
+        "AMMUNITION" : 8,
+        "WATER" : 9,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d662")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d665"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 6,
+        "WATER" : 6,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d664")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d667"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 9,
+        "WATER" : 7,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d666")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d669"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 7,
+        "WATER" : 0,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d668")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d66b"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 1,
+        "WATER" : 7,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d66a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d66d"),
+    "items" : {
+        "MEDICATION" : 2,
+        "AMMUNITION" : 6,
+        "WATER" : 1,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d66c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d66f"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 1,
+        "WATER" : 9,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d66e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d671"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 8,
+        "WATER" : 0,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d670")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d673"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 1,
+        "WATER" : 1,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d672")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d675"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 2,
+        "WATER" : 1,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d674")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d677"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 2,
+        "WATER" : 0,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d676")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d679"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 0,
+        "WATER" : 4,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d678")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d67b"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 5,
+        "WATER" : 9,
+        "FOOD" : 1
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d67a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d67d"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 4,
+        "WATER" : 2,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d67c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d67f"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 2,
+        "WATER" : 3,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d67e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d681"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 9,
+        "WATER" : 6,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d680")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d683"),
+    "items" : {
+        "MEDICATION" : 2,
+        "AMMUNITION" : 1,
+        "WATER" : 1,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d682")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d685"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 1,
+        "WATER" : 6,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d684")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d687"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 4,
+        "WATER" : 2,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d686")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d689"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 3,
+        "WATER" : 9,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d688")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d68b"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 3,
+        "WATER" : 7,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d68a")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d68d"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 2,
+        "WATER" : 3,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d68c")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d68f"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 1,
+        "WATER" : 3,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d68e")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d691"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 7,
+        "WATER" : 3,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d690")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d693"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 2,
+        "WATER" : 5,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d692")
+},
+{
+    "_id" : ObjectId("58eaabaa2b43926980b5d695"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 1,
+        "WATER" : 1,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabaa2b43926980b5d694")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d697"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 3,
+        "WATER" : 5,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d696")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d699"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 8,
+        "WATER" : 9,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d698")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d69b"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 6,
+        "WATER" : 5,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d69a")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d69d"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 7,
+        "WATER" : 9,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d69c")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d69f"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 5,
+        "WATER" : 5,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d69e")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a1"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 3,
+        "WATER" : 3,
+        "FOOD" : 7
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6a0")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a3"),
+    "items" : {
+        "MEDICATION" : 2,
+        "AMMUNITION" : 4,
+        "WATER" : 6,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6a2")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a5"),
+    "items" : {
+        "MEDICATION" : 8,
+        "AMMUNITION" : 9,
+        "WATER" : 0,
+        "FOOD" : 2
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6a4")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a7"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 9,
+        "WATER" : 2,
+        "FOOD" : 8
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6a6")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6a9"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 8,
+        "WATER" : 9,
+        "FOOD" : 1
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6a8")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6ab"),
+    "items" : {
+        "MEDICATION" : 1,
+        "AMMUNITION" : 3,
+        "WATER" : 7,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6aa")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6ad"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 1,
+        "WATER" : 9,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6ac")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6af"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 9,
+        "WATER" : 3,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6ae")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b1"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 4,
+        "WATER" : 4,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6b0")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b3"),
+    "items" : {
+        "MEDICATION" : 0,
+        "AMMUNITION" : 3,
+        "WATER" : 3,
+        "FOOD" : 5
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6b2")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b5"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 3,
+        "WATER" : 3,
+        "FOOD" : 9
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6b4")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b7"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 5,
+        "WATER" : 5,
+        "FOOD" : 9
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6b6")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6b9"),
+    "items" : {
+        "MEDICATION" : 9,
+        "AMMUNITION" : 9,
+        "WATER" : 3,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6b8")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6bb"),
+    "items" : {
+        "MEDICATION" : 7,
+        "AMMUNITION" : 1,
+        "WATER" : 0,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6ba")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6bd"),
+    "items" : {
+        "MEDICATION" : 3,
+        "AMMUNITION" : 1,
+        "WATER" : 7,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6bc")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6bf"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 3,
+        "WATER" : 7,
+        "FOOD" : 6
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6be")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6c1"),
+    "items" : {
+        "MEDICATION" : 6,
+        "AMMUNITION" : 5,
+        "WATER" : 5,
+        "FOOD" : 0
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6c0")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6c3"),
+    "items" : {
+        "MEDICATION" : 5,
+        "AMMUNITION" : 2,
+        "WATER" : 8,
+        "FOOD" : 3
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6c2")
+},
+{
+    "_id" : ObjectId("58eaabab2b43926980b5d6c5"),
+    "items" : {
+        "MEDICATION" : 4,
+        "AMMUNITION" : 1,
+        "WATER" : 8,
+        "FOOD" : 4
+    },
+    "survivorId" : ObjectId("58eaabab2b43926980b5d6c4")
+}]
